@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\bin\Debug\Calculator.exe
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\obj\Debug\Calculator.exe
+C:\Users\lenovo\Desktop\NodeJsProjects\Calculator\obj\Debug\Calculator.pdb
